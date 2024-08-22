@@ -329,7 +329,7 @@ var GSC_PATCH = {
     'Pain Split': { bp: 0, category: 'Status', type: 'Normal' },
     'Shadow Ball': { bp: 80, type: 'Ghost' },
     'Sludge Bomb': { bp: 90, type: 'Poison' },
-    Spark: { bp: 65, type: 'Electric' },
+    Spark: { bp: 80, type: 'Electric' },
     'Steel Wing': { bp: 70, type: 'Steel' },
     'Vital Throw': { bp: 70, type: 'Fighting' }
 };
