@@ -117,7 +117,7 @@ var RBY = {
     'Skull Bash': { bp: 100, type: 'Normal' },
     Slash: { bp: 70, type: 'Normal' },
     Sludge: { bp: 65, type: 'Poison' },
-    'Soft-Boiled': { bp: 0, category: 'Status', type: 'Normal' },
+    'Softboiled': { bp: 0, category: 'Status', type: 'Normal' },
     'Solarbeam': { bp: 120, type: 'Grass' },
     'Sonic Boom': { bp: 1, type: 'Normal' },
     'Spike Cannon': { bp: 20, type: 'Normal', multihit: [2, 5] },
