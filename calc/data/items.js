@@ -119,7 +119,7 @@ var GSC = [
     'Safari Ball',
     'Scope Lens',
     'Sharp Beak',
-    'Silverpowder',
+    'Silver Powder',
     'Soft Sand',
     'Spell Tag',
     'Sport Ball',
