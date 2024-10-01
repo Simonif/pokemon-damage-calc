@@ -54,7 +54,7 @@ var RBY = {
     Blizzard: { bp: 120, type: 'Ice' },
     Bonemerang: { bp: 50, type: 'Ground', multihit: 2 },
     Bubble: { bp: 20, type: 'Water' },
-    'Bubble Beam': { bp: 65, type: 'Water' },
+    'Bubblebeam': { bp: 65, type: 'Water' },
     Clamp: { bp: 35, type: 'Water' },
     'Comet Punch': { bp: 18, type: 'Normal', multihit: [2, 5] },
     Constrict: { bp: 10, type: 'Normal' },
