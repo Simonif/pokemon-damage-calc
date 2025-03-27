@@ -133,7 +133,7 @@ var RBY = {
     Thunder: { bp: 120, type: 'Electric' },
     'Thunder Wave': { bp: 0, category: 'Status', type: 'Electric' },
     Transform: { bp: 0, category: 'Status', type: 'Normal' },
-    'Tri Attack': { bp: 80, type: 'Normal' },
+    'Tri Attack': { bp: 90, type: 'Normal' },
     Twineedle: { bp: 25, type: 'Bug', multihit: 2 },
     Whirlwind: { bp: 0, category: 'Status', type: 'Normal' },
     'Wing Attack': { bp: 35, type: 'Flying' },
