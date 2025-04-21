@@ -7283,7 +7283,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Camper Tyron [#704]": {
 			"ability": "Intimidate",
-			"item": "Nevermeltice",
+			"item": "Never-Melt Ice",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -7363,7 +7363,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Team Aqua Grunt [#236]": {
 			"ability": "Intimidate",
-			"item": "Nevermeltice",
+			"item": "Never-Melt Ice",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -17864,7 +17864,7 @@ var CUSTOMHACKSETDEX_EK = {
 	"Sealeo": {
 		"Lady Cindy [#114]": {
 			"ability": "Thick Fat",
-			"item": "Nevermeltice",
+			"item": "Never-Melt Ice",
 			"ivs": {
 				"at": 31,
 				"df": 31,
