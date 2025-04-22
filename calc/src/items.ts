@@ -260,7 +260,7 @@ const FLING_30 = new Set([
   'Metal Coat',
   'Miracle Seed',
   'Mystic Water',
-  'Nevermeltice',
+  'Never-Melt Ice',
   'Razor Fang',
   'Scope Lens',
   'Soul Dew',
