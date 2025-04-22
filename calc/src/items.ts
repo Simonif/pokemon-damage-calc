@@ -26,10 +26,10 @@ export function getItemBoostType(item: string | undefined) {
   case 'Charcoal':
     return 'Fire';
   case 'Icicle Plate':
-  case 'Nevermeltice':
+  case 'Never-Melt ice':
     return 'Ice';
   case 'Insect Plate':
-  case 'Silverpowder':
+  case 'Silver Powder':
     return 'Bug';
   case 'Iron Plate':
   case 'Metal Coat':
