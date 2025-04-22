@@ -26,7 +26,7 @@ function getItemBoostType(item) {
         case 'Charcoal':
             return 'Fire';
         case 'Icicle Plate':
-        case 'Never-Melt ice':
+        case 'Never-Melt Ice':
             return 'Ice';
         case 'Insect Plate':
         case 'Silver Powder':
