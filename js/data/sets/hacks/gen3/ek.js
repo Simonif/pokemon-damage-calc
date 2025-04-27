@@ -545,7 +545,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Calm Mind",
 				"Hidden Power Grass"
 			],
-			"nature": "Bold"
+			"nature": "Naughty"
 		},
 		"Hex Maniac Tammy [#107]": {
 			"ability": "Synchronize",
@@ -8582,7 +8582,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Earthquake"
 			],
-			"nature": "Bold"
+			"nature": "Adamant"
 		},
 		"Elite Four Sidney [#261]": {
 			"ability": "Swarm",
@@ -14028,7 +14028,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hidden Power Water",
 				"Extrasensory"
 			],
-			"nature": "Jolly"
+			"nature": "Timid"
 		},
 		"Gentleman Nate [#582]": {
 			"ability": "Pressure",
@@ -17050,7 +17050,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Brick Break",
 				"Rock Slide"
 			],
-			"nature": "Modest"
+			"nature": "Naughty"
 		},
 		"Elite Four Drake [#264]": {
 			"ability": "Intimidate",
@@ -17696,7 +17696,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"X-Scissor",
 				"Superpower"
 			],
-			"nature": "Timid"
+			"nature": "Bold"
 		},
 		"Gentleman Clifford [#584]": {
 			"ability": "Swarm",
@@ -18893,7 +18893,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic",
 				"Hidden Power Grass"
 			],
-			"nature": "Bashful"
+			"nature": "Serious"
 		},
 		"Psychic Hannah [#244]": {
 			"ability": "Own Tempo",
