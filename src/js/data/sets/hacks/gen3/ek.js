@@ -5022,7 +5022,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hydro Pump",
 				"Thunder"
 			],
-			"nature": "Brave"
+			"nature": "Hasty"
 		},
 		"Tuber Donut [#324]": {
 			"ability": "Inner Focus",
@@ -17050,7 +17050,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Brick Break",
 				"Rock Slide"
 			],
-			"nature": "Naughty"
+			"nature": "Hasty"
 		},
 		"Elite Four Drake [#264]": {
 			"ability": "Intimidate",
