@@ -547,7 +547,7 @@ const ADV_PATCH: {[name: string]: DeepPartial<MoveData>} = {
   'Calm Mind': { bp: 0, category: 'Status', type: 'Psychic' },
   'Cosmic Power': { bp: 0, category: 'Status', type: 'Psychic' },
   'Crush Claw': { bp: 100, type: 'Normal', makesContact: true },
-  'Dragon Claw': { bp: 80, type: 'Dragon', makesContact: true },
+  'Dragon Claw': { bp: 85, type: 'Dragon', makesContact: true },
   'Dragon Dance': { bp: 0, category: 'Status', type: 'Dragon' },
   Eruption: { bp: 150, type: 'Fire', target: 'allAdjacentFoes' },
   'Fake Tears': { bp: 0, category: 'Status', type: 'Dark' },
