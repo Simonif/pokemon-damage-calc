@@ -19710,7 +19710,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Cooltrainer Gerald [#648]": {
 			"ability": "Rock Head",
-			"item": "Lum Berry",
+			"item": "Focus Band",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -19724,7 +19724,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Rock Slide",
 				"Iron Tail",
-				"Explosion"
+				"Double-Edge"
 			],
 			"nature": "Gentle"
 		},
