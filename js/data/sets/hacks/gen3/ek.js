@@ -21647,7 +21647,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 45,
+			"level": 47,
 			"moves": [
 				"Solarbeam",
 				"Sludge Bomb",
