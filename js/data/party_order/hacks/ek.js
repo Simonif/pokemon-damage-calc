@@ -180,14 +180,14 @@ var CUSTOMHACKPARTYORDER_EK =
 	"Aqua Admin Shelly [#32]": [
 		"Vaporeon",
 		"Slowking",
-		"Scizor",
-		"Relicanth",
 		"Kingdra",
-		"Suicune"
+		"Scizor",
+		"Suicune",
+		"Relicanth"
 	],
 	"Aqua Leader Archie [#34]": [
 		"Espeon",
-		"Metagross",
+		"Poliwrath",
 		"Qwilfish",
 		"Snorlax",
 		"Zapdos",
@@ -721,11 +721,11 @@ var CUSTOMHACKPARTYORDER_EK =
 	],
 	"Leader Winona [#270]": [
 		"Aerodactyl",
-		"Gyarados",
-		"Gengar",
-		"Dragonite",
 		"Claydol",
-		"Ho-Oh"
+		"Ho-Oh",
+		"Dragonite",
+		"Gyarados",
+		"Gengar"
 	],
 	"Leader Tate&Liza [#271]": [
 		"Metagross",
