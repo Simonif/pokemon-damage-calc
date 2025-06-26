@@ -15381,6 +15381,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Impish"
 		},
+				"Aqua Leader Archie [#34]": {
+			"ability": "Swift Swim",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 84,
+			"moves": [
+				"Hydro Pump",
+				"Superpower",
+				"Ice Beam",
+				"Hypnosis"
+			],
+			"nature": "Sassy"
+		},
 		"Cooltrainer Owen [#83]": {
 			"ability": "Swift Swim",
 			"item": "Lum Berry",
